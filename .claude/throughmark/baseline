@@ -1,0 +1,5 @@
+# ThroughMark clean-room baseline cut-line.
+# Code at or before this commit is BASELINE (provenance not established) and is exempt from the
+# provenance gate. Provenance tracking applies to code created after this point.
+cut_line_commit: 0b4f6760ad89a4383784814a7c6ca885f0e3a817
+established: 2026-09-03T02:24:09Z
